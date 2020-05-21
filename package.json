@@ -1,0 +1,22 @@
+{
+  "name": "shellsec",
+  "version": "1.0.4",
+  "main": "index.js",
+  "author": "Anderson Calixto",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShellcodeIT/shellsec.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShellcodeIT/shellsec/issues"
+  },
+  "homepage": "https://github.com/ShellcodeIT/shellsec#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "node-rsa": "^1.0.8"
+  }
+}
